@@ -17,6 +17,7 @@ body {
   color: var(--text-color);
   font-family: var(--font-family-base);
 }
+
 section h1,
 section h2,
 section h3,
@@ -25,9 +26,11 @@ section h5,
 section h6 {
   font-family: var(--font-family-title);
 }
+
 a {
   color: var(--text-color);
 }
+
 .visually-hidden {
   display: none;
 }
