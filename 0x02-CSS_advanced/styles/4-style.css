@@ -13,11 +13,6 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  color: var(--text-color);
-  font-family: var(--font-family-base);
-}
-
 section h1,
 section h2,
 section h3,
@@ -29,6 +24,11 @@ section h6 {
 
 a {
   color: var(--text-color);
+}
+
+body {
+  color: var(--text-color);
+  font-family: var(--font-family-base);
 }
 
 .visually-hidden {
