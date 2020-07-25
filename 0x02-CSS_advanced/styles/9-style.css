@@ -42,7 +42,7 @@ h6 {
 }
 a {
   color: var(--text-color);
-  text-decoration: noce;
+  text-decoration: none;
 }
 .visually-hidden {
   display: none;
