@@ -210,6 +210,6 @@ ul.row {
 .social-link {
   display: block;
 }
-svg.social-link {
+.social-link svg {
   color: var(--text-color);
 }
