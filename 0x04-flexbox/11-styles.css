@@ -518,9 +518,6 @@
     z-index: -1;
   }
 
-  .row {
-    display: flex;
-  }
   /*** ARTICLE PAGE ***/
   /* Section HERO (article)
       ============================= */
