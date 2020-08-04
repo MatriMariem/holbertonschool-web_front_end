@@ -175,6 +175,10 @@
   /* Grid
       ============================= */
 
+  .row {
+    display: flex;
+  }
+
   ul.row {
     margin: -1rem;
     padding: 0;
@@ -328,9 +332,7 @@
     padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
   }
-  .row {
-    display: flex;
-  }
+
   /* Section theming
       ============================= */
 
